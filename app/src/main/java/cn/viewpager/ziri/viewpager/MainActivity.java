@@ -17,9 +17,9 @@ public class MainActivity extends AppCompatActivity {
     private final int[] pictureid={R.drawable.a,R.drawable.b,R.drawable.c,R.drawable.d,R.drawable.e};
     private final String[] picturedes={"哆啦A梦a","哆啦A梦b","哆啦A梦c","哆啦A梦d","哆啦A梦e"};
     private List<ImageView> imagelist=new ArrayList<ImageView>();
-    private int lastposition;
+    private int lastposition;/*最后一次滑动的位置*/
     ViewPager mviewpager;
-    Boolean isrunning=false;
+    Boolean isrunning=false;/*handler是否监听*/
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -34,7 +34,7 @@ public class MainActivity extends AppCompatActivity {
             imagelist.add(mimageview);
 
             ImageView point=new ImageView(this);
-            point.setBackgroundResource(R.drawable.point_bg);
+            point.setBackgroundResource(R.drawable.point_bg);/*图片切换器，负责圆点空白和选中状态的切换*/
             LinearLayout.LayoutParams mlayoutpara=new LinearLayout.LayoutParams(ViewGroup.LayoutParams.WRAP_CONTENT, ViewGroup.LayoutParams.WRAP_CONTENT);
             mlayoutpara.rightMargin=20;
             point.setLayoutParams(mlayoutpara);
@@ -48,6 +48,7 @@ public class MainActivity extends AppCompatActivity {
 
         viewpageradapter mAdapter=new viewpageradapter(imagelist);
         mviewpager.setAdapter(mAdapter);
+        /*让viewpager在中间位置，这样左右都可以滚动*/
         mviewpager.setCurrentItem(Integer.MAX_VALUE/2 -((Integer.MAX_VALUE/2)%imagelist.size()));
         mviewpager.addOnPageChangeListener(new ViewPager.OnPageChangeListener() {
             @Override
@@ -85,7 +86,7 @@ public class MainActivity extends AppCompatActivity {
 };
 
     @Override
-    protected void onDestroy() {
+    protected void onDestroy(){
         super.onDestroy();
         isrunning=false;
         mhandler=null;

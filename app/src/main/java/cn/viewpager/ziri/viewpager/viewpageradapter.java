@@ -19,7 +19,7 @@ public class viewpageradapter extends PagerAdapter {
 
     @Override
     public int getCount() {
-        return Integer.MAX_VALUE;
+        return Integer.MAX_VALUE;/*让viewpager无限滚动*/
     }
 
     /**
