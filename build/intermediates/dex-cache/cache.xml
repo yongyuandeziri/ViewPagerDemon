@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\ward\.android\build-cache\e99df4daa2a64085c9043652a158967a4e28d956\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="C:\Users\ward\workspace\viewpager\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8bb3f7b4e23e0199cd41734406b59500b5623760\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ward\.android\build-cache\c9bc146a8d06db7d1977b8cb1251d0869494bd6d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="C:\Users\ward\workspace\viewpager\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5540be9675fe73907ed07d572356519140e0d349\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ward\.android\build-cache\f55743ab1c30c2cda91329167f35b70289fecb55\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="C:\Users\ward\workspace\viewpager\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d3d9cb42b462e5b3760909a52e458dd620ee1a4b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ward\.android\build-cache\a052ee7c1e3609c3bc577eeb95b30ff0ef97e7cd\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="C:\Users\ward\workspace\viewpager\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fa45d4d35d33829b09f2d7e3ca59d0506e933ced\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ward\.android\build-cache\2bf69914dcb1c5ad4012f0f09cd6b6101d9ae8ed\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="C:\Users\ward\workspace\viewpager\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_aef8de2b10a2c1f8a0a44724dde7be67a9b4e8d7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ward\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\ward\workspace\viewpager\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_ebf2a54a008bd015bf0737c0409a0cc94c959b17\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ward\.android\build-cache\7eb68bace259a58ee8f9cdc7009bbf333cc4431a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\ward\workspace\viewpager\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d4bbc0fd838b4950ca2891a31e9243acfc37bcf4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ward\.android\build-cache\a7064a0bd6708dc24f75c373841477e8f0dc2e96\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="C:\Users\ward\workspace\viewpager\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1e13369b0885435ec914651c6abe804064e0c747\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ward\.android\build-cache\8c47a6a397cab9b589a2552abad22975f5253f90\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\ward\workspace\viewpager\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8c3f6c97627d652729927b20da00cb202586f02f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ward\.android\build-cache\1d46f32bc04eecbd1db9f09fa69032d9de1db3fb\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="C:\Users\ward\workspace\viewpager\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_33508b78cb9b42e6f7638987bef7aa15d2297e8e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ward\workspace\viewpager\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="C:\Users\ward\workspace\viewpager\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_42cec4ae6a9a3d1175d99f3afe15dc72310c1b2a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ward\.android\build-cache\bca3c82305804efd03886f7d4954908e27bef792\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="C:\Users\ward\workspace\viewpager\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7d1a661850c8c08202381745b47f01ff06afc18c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ward\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="C:\Users\ward\workspace\viewpager\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-26.0.0-alpha1_c3fa596e517288b71c4d0616a75d5503d534ee46\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ward\workspace\viewpager\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="bd96230d12a37bf785782d44101d6ba3b322706d">
+        <dex dex="C:\Users\ward\workspace\viewpager\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_28b95a53a7704280d2a497423601141e23d2e331\classes.dex" />
+    </item>
+
+</items>
